@@ -11,9 +11,9 @@ The original specifications for this project can be found at (The Odin Project)[
 - VS Code editor
 
 # Getting Started
-To get a local copy up and running follow these simple example steps:
-- Clone the repo
-- Go to the directory Bubble_sort
+To get a local copy up and running follow these simple steps:
+- Clone the repository
+- Go to the directory Bubble_sort in your local machine
 - Write ruby bubble.rb and press enter
 
 # Authors
