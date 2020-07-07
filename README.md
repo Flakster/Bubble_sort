@@ -1,5 +1,5 @@
 # Bubble Sort Algorithm
-First Ruby project. Implements Bubble sort algorithm on arrays. This is done in two ways, first with a method that sorts an array in ascending order, and secondly with a method that recieves the sorting indications from a block.
+First Ruby project. Implements the Bubble sort algorithm on arrays. This is done in two ways, first with a method that sorts an array in ascending order, and secondly with a method that receives the sorting indications from a block.
 
 The original specifications for this project can be found at (The Odin Project)[https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks?ref=lnav]
 
