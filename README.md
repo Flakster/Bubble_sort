@@ -27,3 +27,4 @@ To get a local copy up and running follow these simple steps:
 - Github: [@Flakster](http://www.github.com/flakster)
 - Twitter: [@Flakster](http://www.twitter.com/flakster)
 - Linkedin: [cjsb](http://www.linkedin.com/in/cjsb)
+- Email: contact@carlossantamaria.co
